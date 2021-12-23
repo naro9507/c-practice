@@ -1,5 +1,5 @@
 {
-  "files.associations": {
-    "sstream": "c"
-  }
+  "C_Cpp.clang_format_style": "{BasedOnStyle: Google, IndentWidth: 4}",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true
 }
