@@ -62,3 +62,7 @@ dkms.conf
 
 # VSCode extension
 .history
+
+.DS_STORE
+
+*.bin
