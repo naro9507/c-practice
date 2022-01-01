@@ -8,7 +8,8 @@ struct input {
 };
 
 int main() {
-    struct input input = {32767, 2147483647, "text_6"};
+    // struct input input = {32767, 2147483647, "text_6"};
+    struct input input = {116, 2, "text_6"};
     char* fileName = "./dump.bin";
     FILE* file;
     file = fopen(fileName, "wb");
